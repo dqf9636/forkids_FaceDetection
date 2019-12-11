@@ -14,7 +14,7 @@ Face Detection & emotion Recognition Module project
   * ML-Agents, Tensorflowsharp
   
 
-## 
+## Checkpoint
 * 경로 맞추기
  * DLL Library - imread, imwrite
  * Unity ResultSceneScript - File.ReadAllBytes
