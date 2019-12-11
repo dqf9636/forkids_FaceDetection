@@ -4,6 +4,7 @@
 Face Detection & emotion Recognition Module project
 
 
+## 개발 환경
 * Unity 2018.3.7f1
 * OpenCV LBP Cascade(C++) - DLL로 변환해서 사용
  * ./lbpcascade_frontalface.xml
@@ -13,6 +14,7 @@ Face Detection & emotion Recognition Module project
   * ML-Agents, Tensorflowsharp
   
 
+## 
 * 경로 맞추기
  * DLL Library - imread, imwrite
  * Unity ResultSceneScript - File.ReadAllBytes
