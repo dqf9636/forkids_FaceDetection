@@ -1,7 +1,7 @@
 # forkids_FaceDetection
 
 2019 2학기 종합설계 [Forkids]
-Face Detection & emotion Recognition Module project
+ Face Detection & emotion Recognition Module project
 
 
 ## 개발 환경
